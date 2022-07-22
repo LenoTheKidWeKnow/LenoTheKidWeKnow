@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LenoTheKidWeKnow
+- 👋 Hi, I’m @brian-bh
 - 👀 I’m interested in Python Backend
 - 🌱 I’m currently learning Python, and trying to learn Javascript
 - 💞️ I’m looking to collaborate on Fintech
