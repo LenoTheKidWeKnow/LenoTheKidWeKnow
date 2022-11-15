@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brian-bh
-- 👀 I’m interested in Python Backend
-- 🌱 I’m currently learning Python, and trying to learn Javascript
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python and so on
 - 💞️ I’m looking to collaborate on Fintech
 - 📫 How to reach me - @peoplefund
 
